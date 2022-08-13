@@ -1,0 +1,7 @@
+sasda
+--------
+بسم الله الرحمن الرحيم
+---------
+git config --global user.name "Ashraf-Toubar"
+git config --global user.email ashraft477@gmail.com
+
